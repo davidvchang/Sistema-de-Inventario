@@ -1,0 +1,35 @@
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\bin\Debug\Inventario.exe.config
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\bin\Debug\Inventario.exe
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\bin\Debug\Inventario.pdb
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\obj\Debug\Inventario.csproj.SuggestedBindingRedirects.cache
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\obj\Debug\Inventario.Buscar.resources
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\obj\Debug\Inventario.Inventarios.resources
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\obj\Debug\Inventario.Productos.resources
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\obj\Debug\Inventario.exe
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\obj\Debug\Inventario.pdb
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\bin\Debug\ReglasDeNegocio.dll
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\bin\Debug\ReglasDeNegocio.pdb
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\obj\Debug\Inventario.csproj.CopyComplete
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\obj\Debug\Inventario.InicioSesion.resources
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\Inventario\obj\Debug\Inventario.BuscarFolio.resources
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\bin\Debug\ReglasDeNegocio.dll
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\bin\Debug\ReglasDeNegocio.pdb
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\obj\Debug\Inventario.Buscar.resources
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\obj\Debug\Inventario.BuscarFolio.resources
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\obj\Debug\Inventario.InicioSesion.resources
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\obj\Debug\Inventario.Inventarios.resources
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\obj\Debug\Inventario.Productos.resources
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\obj\Debug\Inventario.csproj.CopyComplete
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\Inventario\obj\Debug\Inventario.pdb

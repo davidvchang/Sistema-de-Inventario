@@ -1,0 +1,12 @@
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\ReglasDeNegocio\bin\Debug\ReglasDeNegocio.dll
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\ReglasDeNegocio\bin\Debug\ReglasDeNegocio.pdb
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.csproj.AssemblyReference.cache
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.csproj.CoreCompileInputs.cache
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.dll
+G:\Carpetas\Documentos\Proyectos Programacion\Visual Studio\Inventario\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.pdb
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\ReglasDeNegocio\bin\Debug\ReglasDeNegocio.dll
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\ReglasDeNegocio\bin\Debug\ReglasDeNegocio.pdb
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.dll
+C:\Users\david\OneDrive\Documentos\Proyectos Programacion\C#\Inventario\ReglasDeNegocio\obj\Debug\ReglasDeNegocio.pdb
